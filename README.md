@@ -23,8 +23,8 @@ Example CSV:
 ```csv
 fname,lname,Phone,address,comments
 John,Doe,923001234567,Example Inc,Important client
-Jane,Smith,923009876543,Another Co,Follow up next week
-
+Jane,Smith,923009876543,Another Co,Follow up next week 
+```
 Usage
 Upload your contacts file
 
